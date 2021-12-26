@@ -1,3 +1,5 @@
+Visualization for pathfinding algorithms like bfs and dfs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
